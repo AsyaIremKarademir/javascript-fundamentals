@@ -24,3 +24,4 @@ function convert(){
         result.textContent = "Select a unit"; 
     }
 }
+//toFixed(1) metodu virgülden sonra sadece tek bir ondalık basamağı gösterilmesi için kullanılır.
